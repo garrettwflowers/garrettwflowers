@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @garrettwflowers
 - 🌱 I’m a graduate student studying data science at University of Colorado - Boulder
-- 📚 I’m interested in researching topics such as climate change, food science, natural language processing, and music analysis
+- 📚 I’m interested in researching topics such as climate change, food science, natural language processing, and music
